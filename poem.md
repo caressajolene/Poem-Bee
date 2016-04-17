@@ -1,10 +1,12 @@
-    Buz, Buz, Buz
+    # **Buz, Buz, Buz**
 
-    By Clara Doty Bates
+    ### By Clara Doty Bates
 
     Buz, Buz, Buz--says the Great buzzing Bee.
     Go away butterfly--this flower is for me.
     Why? Why? Why? says the little butterfly,
     If you may sit on this flower, why may'nt I?
     
-    http://www.public-domain-poetry.com/clara-doty-bates/buz-buz-buz-12826
+    :honeybee:
+    
+    > (http://www.public-domain-poetry.com/clara-doty-bates/buz-buz-buz-12826)
